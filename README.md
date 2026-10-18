@@ -157,3 +157,20 @@ nhinn/
 ## License
 
 MIT。医案与条文内容版权归原作者/源仓库所有，使用时请遵守其许可。
+
+---
+
+## 🙏 致谢
+
+本项目站在以下开源项目与数据整理者的肩膀上，特此感谢：
+
+| 仓库 | 贡献 | Stars |
+|---|---|---|
+| [jangviktor-web/nihaixia](https://github.com/jangviktor-web/nihaixia) | 倪海厦医案大数据集（1257 例结构化表 + 叙事医案 + 问诊记录），本项目的训练语料与医案直证索引核心来源 | ⭐ 3.6k |
+| [jangviktor-web/nihaixia-app](https://github.com/jangviktor-web/nihaixia-app) | 结构化中医诊断知识库（diagnostic_engine / diagnostic_rules / formulas / 方剂口服用意），知识库模块 04/05/06 的提炼来源 | ⭐ 239 |
+| [chenglou/handwired](https://github.com/chenglou/handwired) | 可微电路神经网络框架，本项目训练引擎的底层实现 | ⭐ 开源 |
+
+同时感谢倪海厦先生留下的《人纪》系列公开讲学内容——没有这些真实的辨证案例与经方思想，就没有这个可解释的中医辨证模型。
+
+> 本仓库的医案与条文数据均来自上述公开仓库的整理与转录，仅供学习研究使用。
+
