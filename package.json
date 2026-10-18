@@ -1,0 +1,17 @@
+{
+  "name": "nhinn",
+  "version": "17.0.0",
+  "description": "Ni Haixia Interpretable Neural Network — Six-Meridian (LiuJing) diagnosis with interpretable weights, trained on a differentiable circuit (Handwired).",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "train": "bun nh-liujing-21.ts",
+    "predict": "bun nh-predict.ts",
+    "eval": "bun nh-eval.ts",
+    "build:data": "bun build-all-dataset.ts",
+    "build:hints": "bun build-hints-dataset.ts",
+    "build:rules": "bun build-rules-dataset.ts",
+    "build:eval": "bun build-eval-dataset.ts",
+    "build:index": "bun build-case-index-v2.ts"
+  }
+}

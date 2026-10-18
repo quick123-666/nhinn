@@ -1,0 +1,4 @@
+node_modules/
+*.txt
+!package.json
+.DS_Store
